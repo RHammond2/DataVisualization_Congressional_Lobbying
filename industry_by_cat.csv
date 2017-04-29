@@ -1,0 +1,104 @@
+Catorder,Sector Long,Industry
+A11,Agribusiness,Misc Agriculture
+A01,Agribusiness,Crop Production & Basic Processing
+A02,Agribusiness,Tobacco
+A04,Agribusiness,Dairy
+A05,Agribusiness,Poultry & Eggs
+A06,Agribusiness,Livestock
+A07,Agribusiness,Agricultural Services/Products
+A10,Agribusiness,Forestry & Forest Products
+C01,Construction,General Contractors
+C02,Construction,Home Builders
+C03,Construction,Special Trade Contractors
+C04,Construction,Construction Services
+C05,Construction,Building Materials & Equipment
+B00,Communications/Electronics,Misc Communications/Electronics
+B01,Communications/Electronics,Printing & Publishing
+B02,Communications/Electronics,TV/Movies/Music
+B09,Communications/Electronics,Telecom Services
+B08,Communications/Electronics,Telephone Utilities
+B12,Communications/Electronics,Electronics Mfg & Equip
+B13,Communications/Electronics,Internet
+D03,Defense,Misc Defense
+D01,Defense,Defense Aerospace
+D02,Defense,Defense Electronics
+E07,Energy & Natural Resources,Misc Energy
+E01,Energy & Natural Resources,Oil & Gas
+E04,Energy & Natural Resources,Mining
+E08,Energy & Natural Resources,Electric Utilities
+E09,Energy & Natural Resources,Environmental Svcs/Equipment
+E10,Energy & Natural Resources,Waste Management
+E11,Energy & Natural Resources,Fisheries & Wildlife
+F13,"Finance, Insurance & Real Estate",Misc Finance
+F03,"Finance, Insurance & Real Estate",Commercial Banks
+F04,"Finance, Insurance & Real Estate",Savings & Loans
+F05,"Finance, Insurance & Real Estate",Credit Unions
+F06,"Finance, Insurance & Real Estate",Finance/Credit Companies
+F07,"Finance, Insurance & Real Estate",Securities & Investment
+F09,"Finance, Insurance & Real Estate",Insurance
+F10,"Finance, Insurance & Real Estate",Real Estate
+F11,"Finance, Insurance & Real Estate",Accountants
+N12,Misc Business,Misc Business
+N00,Misc Business,Business Associations
+A09,Agribusiness,Food Processing & Sales
+N01,Misc Business,Food & Beverage
+N02,Misc Business,"Beer, Wine & Liquor"
+N09,Misc Business,Marijuana
+N03,Misc Business,Retail Sales
+N04,Misc Business,Misc Services
+N05,Misc Business,Business Services
+N06,Misc Business,Recreation/Live Entertainment
+N07,Misc Business,Casinos/Gambling
+H05,Health,Misc Health
+H01,Health,Health Professionals
+H02,Health,Hospitals/Nursing Homes
+H03,Health,Health Services/HMOs
+H04,Health,Pharmaceuticals/Health Products
+W04,Other,Education
+W07,Other,Other
+Q10,Ideological/Single-Issue,Misc Issues
+Q01,Ideological/Single-Issue,Republican/Conservative
+Q02,Ideological/Single-Issue,Democratic/Liberal
+Q03,Ideological/Single-Issue,Leadership PACs
+Q04,Ideological/Single-Issue,Foreign & Defense Policy
+Q05,Ideological/Single-Issue,Pro-Israel
+Q12,Ideological/Single-Issue,Gun Control
+Q13,Ideological/Single-Issue,Gun Rights
+Q09,Ideological/Single-Issue,Human Rights
+Q14,Ideological/Single-Issue,Abortion Policy/Anti-Abortion
+Q15,Ideological/Single-Issue,Abortion Policy/Pro-Abortion Rights
+Q08,Ideological/Single-Issue,Women's Issues
+Q11,Ideological/Single-Issue,Environment
+K01,Lawyers & Lobbyists,Lawyers/Law Firms
+K02,Lawyers & Lobbyists,Lobbyists
+P05,Labor,Misc Unions
+P04,Labor,Public Sector Unions
+P01,Labor,Building Trade Unions
+P02,Labor,Industrial Unions
+P03,Labor,Transportation Unions
+N15,Misc Business,Misc Manufacturing & Distributing
+N13,Misc Business,Chemical & Related Manufacturing
+N14,Misc Business,Steel Production
+N16,Misc Business,Textiles
+M06,Transportation,Misc Transport
+M01,Transportation,Air Transport
+M02,Transportation,Automotive
+M03,Transportation,Trucking
+M04,Transportation,Railroads
+M05,Transportation,Sea Transport
+N08,Misc Business,Lodging/Tourism
+W06,Other,Retired
+W03,Other,Civil Servants/Public Officials
+W02,Other,Non-Profit Institutions
+W05,Other,Clergy & Religious Organizations
+Y00,Unknown,Unknown
+Y01,Unknown,Homemakers/Non-income earners
+Y02,Unknown,No Employer Listed or Found
+Y03,Unknown,Generic Occupation/Category Unknown
+Y04,Unknown,Employer Listed/Category Unknown
+Q16,Ideological/Single-Issue,Candidate Committees
+Z04,Joint Candidate Cmtes,Joint Candidate Cmte
+Z02,Party Cmtes,Party Committees
+Z07,Candidate,Candidate Self-finance
+Z08,Non-contribution,Party Committee Transfer
+Z09,Non-contribution,Non-contribution

@@ -1,0 +1,51 @@
+CODE	CmteName	Congress
+HADM  	House Administration	House
+HAGR  	Agriculture	House
+HAPP  	Appropriations	House
+HARM  	Armed Services	House
+HBAN	Banking	House
+HBUD  	Budget	House
+HCOM	Commerce 	House
+HEDU  	Education and Labor	House
+HEGW	Select Energy Independence and Global Warming	House
+HENE  	Energy and Commerce	House
+HFIN  	Financial Services	House
+HGOV  	Oversight and Government Reform	House
+HHSC  	Homeland Security	House
+HINT  	Foreign Affairs	House
+HITL  	Permanent Select on Intelligence	House
+HJUD  	Judiciary	House
+HPRC  	U.S. National Security and Military/ Commercial Concerns with the People's Republic of China	House
+HRES  	Natural Resources	House
+HRUL  	Rules	House
+HSCI  	Science	House
+HSMA  	Small Business	House
+HSTA  	Standards of Official Conduct	House
+HTRA  	Transportation and Infrastructure	House
+HVET  	Veterans' Affairs	House
+HWAY  	Ways and Means	House
+JECO  	Joint Economic	Joint
+JLIB  	Joint Library of Congress	Joint
+JPRI  	Joint Printing	Joint
+JTAX  	Joint Taxation	Joint
+SAGI  	Special Aging	Sentate
+SAGR  	Agriculture, Nutrition and Forestry	Sentate
+SAPP  	Appropriations	Sentate
+SARM  	Armed Services	Sentate
+SBAN  	Banking, Housing, and Urban Affairs	Sentate
+SBUD  	Budget	Sentate
+SCOM  	Commerce, Science, and Transportation	Sentate
+SENE  	Energy and Natural Resources	Sentate
+SENV  	Environment and Public Works	Sentate
+SETH  	Select Ethics	Sentate
+SFIN  	Finance	Sentate
+SFOR  	Foreign Relations	Sentate
+SGOV  	Homeland Security and Governmental Affairs	Sentate
+SIND  	Indian Affairs	Sentate
+SITL  	Select Intelligence	Sentate
+SJUD  	Judiciary	Sentate
+SLAB  	Health, Education, Labor and Pensions	Sentate
+SRUL  	Rules and Administration	Sentate
+SSMA  	Small Business and Entrepreneurship	Sentate
+STEC	Special Year 2000 Technology Problem	Sentate
+SVET  	Veterans' Affairs	Sentate
